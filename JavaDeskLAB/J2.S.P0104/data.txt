@@ -1,0 +1,5 @@
+1;Stock one;No1-Washiton street;11/05/2010;0
+2;Stock two;372 Cave town - 001 Banks;09/07/2011;0
+3;Stock three;Nary angle - 890 Number one;13/05/2010;0
+4;Stock four;Twin tower - 01 Main Street;04/07/2015;0
+5;Stock five;Victory anniversary district;08/12/2014;0
