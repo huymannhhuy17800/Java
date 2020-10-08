@@ -1,9 +1,10 @@
 ﻿# Welcome to HuyNM aka Comanment respository
-This respository contains a simple Java application used to demonstrate the CI - Continuous Integration process, a part of Introduction to Software Engineering course
-at FPT University, HCMC Campus
+This respository contains a simple Java application used to demonstrate the CI - Continuous Integration process, 
+a part of Introduction to Software Engineering courseat FPT University, HCMC Campus. Best dtcl
 
 ## You will find this repository:
 * Java desktop lab full code.
+* C# projects.
 * .gitignore.
 * Markdown file: this file itself.
 
